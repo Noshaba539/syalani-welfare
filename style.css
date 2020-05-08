@@ -1,0 +1,175 @@
+.headbuttons 
+{
+    padding: 5px;
+}
+.topbar
+{
+    padding: 20px;
+    margin: 10px auto 10px auto;
+}
+.social
+{
+    padding-top: 20px;
+   
+
+}
+.para
+{
+    font-size: 1.3em;
+}
+
+.icons
+{
+    padding: 5px;
+    margin: 10px auto 10px auto;
+}
+/* .menuebar
+{
+    padding-top: 10px;
+    width:50;
+
+    margin: right;
+} */
+
+.nav_bar
+{
+    padding: 10px;
+    border-radius: 30px;
+    margin: 10px auto 10px auto;
+}
+.menu:hover
+{
+    background-color: royalblue;
+
+    border-radius: 30px;
+}
+.menu
+{
+    padding-right: 20px;
+    margin: right;
+}
+.slides
+{
+    padding-top: 40px;
+    width:1500px ;
+
+}
+.marque
+{
+    padding: 20px;
+    font-size: 2em;
+    color: white;
+    
+}
+.text
+{
+
+    padding-bottom: 50px;
+    
+
+}
+.headings
+{
+    padding: 40px;
+    text-align: center;
+
+}
+.mainpic
+{
+   text-align: center;
+   margin: 10px auto 10px auto;
+}
+.paragraph
+{
+    padding: 10px;
+    font-size: 1.3em;
+    line-height: 1.4em;
+    letter-spacing: 0.2em;
+    margin: 10px auto 10px auto ;
+    word-spacing: 1em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.counter
+{
+    display: flex;
+    padding: 40px;
+    font-size: 2em;
+    justify-content: space-around;
+}
+.sperator
+{
+    width:70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+}
+.sperate
+{
+    width: 70px;
+    height: 4px;
+    background-color: green;
+}
+hr
+{
+    display: inline-block;
+    padding-left: 5px;
+    margin: left;
+
+}
+.whatwedo
+{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    margin: left;
+    font-size: 3em;
+     font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.whatwe{
+    padding: 100px;
+    border: 10px solid white;
+    background-color:gainsboro;
+    font-size: 3em;
+    font-family: fantasy;
+    text-shadow: gainsboro;
+    
+
+}
+.what{
+    padding: 100px;
+    margin: left;
+    border: 10px solid white;
+    background-color:gainsboro;
+    font-size: 3em;
+    font-family: fantasy;
+    text-shadow: gainsboro;
+
+
+}
+.mission
+{
+    padding :20px;
+    font-size: 1.3em;
+}
+.imagegallery
+{
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.gallery
+{
+    padding: 100px;
+}
+.foot
+{
+    padding-right: 100px;
+}
+.footer
+{
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blanchedalmond;
+}
